@@ -6,7 +6,7 @@
 #   Defined system variables:
 #     XILINX_VIVADO='C:\Xilinx\Vivado\2019.2'
 #     PATH='C:\Xilinx\Vivado\2019.2\bin'
-#     PATH='C:\Xilinx\Vivado\2019.2\lib\win64.o' test
+#     PATH='C:\Xilinx\Vivado\2019.2\lib\win64.o'
 
 # ADDING PROJECT SOURCES ---------------------------------------------------------------------------
 set module_under_test counter
